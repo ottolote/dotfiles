@@ -1,0 +1,6 @@
+[submodule "urxvt-config"]
+	path = urxvt-config
+	url = git@github.com:ottolote/urxvt-config.git
+[submodule "neovim-config"]
+	path = neovim-config
+	url = git@github.com:ottolote/neovim-config.git
